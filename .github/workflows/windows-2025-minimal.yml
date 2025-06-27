@@ -1,5 +1,4 @@
 name: Windows 2025 WSL2 Networking Issue Reproduction
-
 on:
   push:
     branches: [ main ]
